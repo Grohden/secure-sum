@@ -1,7 +1,9 @@
 # Secure Sum
 
-Do you ever wanted to securely sum two numbers without worring about someone stealing your numbers??
-If yes, secure sum is for you! (otherwise you should rethink your life choices)
+Do you ever wanted to securely sum two numbers without 
+worrying about someone stealing them??
+If yes, secure sum is for you! (otherwise you 
+should rethink your life choices)
 
 Note: This project is done with **RAGE** using **XGH** and is **NOT TO BE TAKEN SERIOUSLY**
 
